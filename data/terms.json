@@ -1,0 +1,1191 @@
+{
+  "company": "Northwind Components",
+  "currency": "USD",
+  "asOf": "2025-09-30",
+  "vendors": [
+    {
+      "id": "acme-steel",
+      "name": "Acme Steel Co.",
+      "termsLabel": "2/10 net 30",
+      "discountPct": 2,
+      "discountWindowDays": 10,
+      "netDays": 30,
+      "invoices": [
+        {
+          "id": "INV-ACME-202404-1",
+          "amount": 52000,
+          "invoiceDate": "2024-04-05",
+          "dueDate": "2024-05-05",
+          "paidDate": "2024-04-21"
+        },
+        {
+          "id": "INV-ACME-202404-2",
+          "amount": 53500,
+          "invoiceDate": "2024-04-18",
+          "dueDate": "2024-05-18",
+          "paidDate": "2024-05-09"
+        },
+        {
+          "id": "INV-ACME-202405-1",
+          "amount": 52900,
+          "invoiceDate": "2024-05-05",
+          "dueDate": "2024-06-04",
+          "paidDate": "2024-05-21"
+        },
+        {
+          "id": "INV-ACME-202405-2",
+          "amount": 54400,
+          "invoiceDate": "2024-05-18",
+          "dueDate": "2024-06-17",
+          "paidDate": "2024-06-08"
+        },
+        {
+          "id": "INV-ACME-202406-1",
+          "amount": 53800,
+          "invoiceDate": "2024-06-05",
+          "dueDate": "2024-07-05",
+          "paidDate": "2024-06-20"
+        },
+        {
+          "id": "INV-ACME-202406-2",
+          "amount": 55300,
+          "invoiceDate": "2024-06-18",
+          "dueDate": "2024-07-18",
+          "paidDate": "2024-07-08"
+        },
+        {
+          "id": "INV-ACME-202407-1",
+          "amount": 54700,
+          "invoiceDate": "2024-07-05",
+          "dueDate": "2024-08-04",
+          "paidDate": "2024-07-20"
+        },
+        {
+          "id": "INV-ACME-202407-2",
+          "amount": 56200,
+          "invoiceDate": "2024-07-18",
+          "dueDate": "2024-08-17",
+          "paidDate": "2024-08-07"
+        },
+        {
+          "id": "INV-ACME-202408-1",
+          "amount": 55600,
+          "invoiceDate": "2024-08-05",
+          "dueDate": "2024-09-04",
+          "paidDate": "2024-08-19"
+        },
+        {
+          "id": "INV-ACME-202408-2",
+          "amount": 57100,
+          "invoiceDate": "2024-08-18",
+          "dueDate": "2024-09-17",
+          "paidDate": "2024-09-06"
+        },
+        {
+          "id": "INV-ACME-202409-1",
+          "amount": 56500,
+          "invoiceDate": "2024-09-05",
+          "dueDate": "2024-10-05",
+          "paidDate": "2024-09-19"
+        },
+        {
+          "id": "INV-ACME-202409-2",
+          "amount": 58000,
+          "invoiceDate": "2024-09-18",
+          "dueDate": "2024-10-18",
+          "paidDate": "2024-10-07"
+        },
+        {
+          "id": "INV-ACME-202410-1",
+          "amount": 57400,
+          "invoiceDate": "2024-10-05",
+          "dueDate": "2024-11-04",
+          "paidDate": "2024-10-18"
+        },
+        {
+          "id": "INV-ACME-202410-2",
+          "amount": 58900,
+          "invoiceDate": "2024-10-18",
+          "dueDate": "2024-11-17",
+          "paidDate": "2024-11-05"
+        },
+        {
+          "id": "INV-ACME-202411-1",
+          "amount": 58300,
+          "invoiceDate": "2024-11-05",
+          "dueDate": "2024-12-05",
+          "paidDate": "2024-11-18"
+        },
+        {
+          "id": "INV-ACME-202411-2",
+          "amount": 59800,
+          "invoiceDate": "2024-11-18",
+          "dueDate": "2024-12-18",
+          "paidDate": "2024-12-06"
+        },
+        {
+          "id": "INV-ACME-202412-1",
+          "amount": 59200,
+          "invoiceDate": "2024-12-05",
+          "dueDate": "2025-01-04",
+          "paidDate": "2024-12-17"
+        },
+        {
+          "id": "INV-ACME-202412-2",
+          "amount": 60700,
+          "invoiceDate": "2024-12-18",
+          "dueDate": "2025-01-17",
+          "paidDate": "2025-01-04"
+        },
+        {
+          "id": "INV-ACME-202501-1",
+          "amount": 60100,
+          "invoiceDate": "2025-01-05",
+          "dueDate": "2025-02-04",
+          "paidDate": "2025-01-17"
+        },
+        {
+          "id": "INV-ACME-202501-2",
+          "amount": 61600,
+          "invoiceDate": "2025-01-18",
+          "dueDate": "2025-02-17",
+          "paidDate": "2025-02-04"
+        },
+        {
+          "id": "INV-ACME-202502-1",
+          "amount": 61000,
+          "invoiceDate": "2025-02-05",
+          "dueDate": "2025-03-07",
+          "paidDate": "2025-02-16"
+        },
+        {
+          "id": "INV-ACME-202502-2",
+          "amount": 62500,
+          "invoiceDate": "2025-02-18",
+          "dueDate": "2025-03-20",
+          "paidDate": "2025-03-06"
+        },
+        {
+          "id": "INV-ACME-202503-1",
+          "amount": 61900,
+          "invoiceDate": "2025-03-05",
+          "dueDate": "2025-04-04",
+          "paidDate": "2025-03-16"
+        },
+        {
+          "id": "INV-ACME-202503-2",
+          "amount": 63400,
+          "invoiceDate": "2025-03-18",
+          "dueDate": "2025-04-17",
+          "paidDate": "2025-04-03"
+        },
+        {
+          "id": "INV-ACME-202504-1",
+          "amount": 62800,
+          "invoiceDate": "2025-04-05",
+          "dueDate": "2025-05-05",
+          "paidDate": "2025-04-15"
+        },
+        {
+          "id": "INV-ACME-202504-2",
+          "amount": 64300,
+          "invoiceDate": "2025-04-18",
+          "dueDate": "2025-05-18",
+          "paidDate": "2025-05-03"
+        },
+        {
+          "id": "INV-ACME-202505-1",
+          "amount": 63700,
+          "invoiceDate": "2025-05-05",
+          "dueDate": "2025-06-04",
+          "paidDate": "2025-05-15"
+        },
+        {
+          "id": "INV-ACME-202505-2",
+          "amount": 65200,
+          "invoiceDate": "2025-05-18",
+          "dueDate": "2025-06-17",
+          "paidDate": "2025-06-02"
+        },
+        {
+          "id": "INV-ACME-202506-1",
+          "amount": 64600,
+          "invoiceDate": "2025-06-05",
+          "dueDate": "2025-07-05",
+          "paidDate": "2025-06-14"
+        },
+        {
+          "id": "INV-ACME-202506-2",
+          "amount": 66100,
+          "invoiceDate": "2025-06-18",
+          "dueDate": "2025-07-18",
+          "paidDate": "2025-07-02"
+        },
+        {
+          "id": "INV-ACME-202507-1",
+          "amount": 65500,
+          "invoiceDate": "2025-07-05",
+          "dueDate": "2025-08-04",
+          "paidDate": "2025-07-14"
+        },
+        {
+          "id": "INV-ACME-202507-2",
+          "amount": 67000,
+          "invoiceDate": "2025-07-18",
+          "dueDate": "2025-08-17",
+          "paidDate": "2025-08-01"
+        },
+        {
+          "id": "INV-ACME-202508-1",
+          "amount": 66400,
+          "invoiceDate": "2025-08-05",
+          "dueDate": "2025-09-04",
+          "paidDate": "2025-08-13"
+        },
+        {
+          "id": "INV-ACME-202508-2",
+          "amount": 67900,
+          "invoiceDate": "2025-08-18",
+          "dueDate": "2025-09-17",
+          "paidDate": "2025-08-31"
+        },
+        {
+          "id": "INV-ACME-202509-1",
+          "amount": 67300,
+          "invoiceDate": "2025-09-05",
+          "dueDate": "2025-10-05",
+          "paidDate": "2025-09-13"
+        },
+        {
+          "id": "INV-ACME-202509-2",
+          "amount": 68800,
+          "invoiceDate": "2025-09-18",
+          "dueDate": "2025-10-18",
+          "paidDate": "2025-10-01"
+        }
+      ]
+    },
+    {
+      "id": "harbor-plastics",
+      "name": "Harbor Plastics",
+      "termsLabel": "1/10 net 30",
+      "discountPct": 1,
+      "discountWindowDays": 10,
+      "netDays": 30,
+      "invoices": [
+        {
+          "id": "INV-HARBOR-202404-1",
+          "amount": 18500,
+          "invoiceDate": "2024-04-05",
+          "dueDate": "2024-05-05",
+          "paidDate": "2024-04-12"
+        },
+        {
+          "id": "INV-HARBOR-202404-2",
+          "amount": 20000,
+          "invoiceDate": "2024-04-18",
+          "dueDate": "2024-05-18",
+          "paidDate": "2024-04-30"
+        },
+        {
+          "id": "INV-HARBOR-202405-1",
+          "amount": 18750,
+          "invoiceDate": "2024-05-05",
+          "dueDate": "2024-06-04",
+          "paidDate": "2024-05-12"
+        },
+        {
+          "id": "INV-HARBOR-202405-2",
+          "amount": 20250,
+          "invoiceDate": "2024-05-18",
+          "dueDate": "2024-06-17",
+          "paidDate": "2024-05-30"
+        },
+        {
+          "id": "INV-HARBOR-202406-1",
+          "amount": 19000,
+          "invoiceDate": "2024-06-05",
+          "dueDate": "2024-07-05",
+          "paidDate": "2024-06-11"
+        },
+        {
+          "id": "INV-HARBOR-202406-2",
+          "amount": 20500,
+          "invoiceDate": "2024-06-18",
+          "dueDate": "2024-07-18",
+          "paidDate": "2024-06-29"
+        },
+        {
+          "id": "INV-HARBOR-202407-1",
+          "amount": 19250,
+          "invoiceDate": "2024-07-05",
+          "dueDate": "2024-08-04",
+          "paidDate": "2024-07-11"
+        },
+        {
+          "id": "INV-HARBOR-202407-2",
+          "amount": 20750,
+          "invoiceDate": "2024-07-18",
+          "dueDate": "2024-08-17",
+          "paidDate": "2024-07-29"
+        },
+        {
+          "id": "INV-HARBOR-202408-1",
+          "amount": 19500,
+          "invoiceDate": "2024-08-05",
+          "dueDate": "2024-09-04",
+          "paidDate": "2024-08-10"
+        },
+        {
+          "id": "INV-HARBOR-202408-2",
+          "amount": 21000,
+          "invoiceDate": "2024-08-18",
+          "dueDate": "2024-09-17",
+          "paidDate": "2024-08-28"
+        },
+        {
+          "id": "INV-HARBOR-202409-1",
+          "amount": 19750,
+          "invoiceDate": "2024-09-05",
+          "dueDate": "2024-10-05",
+          "paidDate": "2024-09-10"
+        },
+        {
+          "id": "INV-HARBOR-202409-2",
+          "amount": 21250,
+          "invoiceDate": "2024-09-18",
+          "dueDate": "2024-10-18",
+          "paidDate": "2024-09-28"
+        },
+        {
+          "id": "INV-HARBOR-202410-1",
+          "amount": 20000,
+          "invoiceDate": "2024-10-05",
+          "dueDate": "2024-11-04",
+          "paidDate": "2024-10-09"
+        },
+        {
+          "id": "INV-HARBOR-202410-2",
+          "amount": 21500,
+          "invoiceDate": "2024-10-18",
+          "dueDate": "2024-11-17",
+          "paidDate": "2024-10-27"
+        },
+        {
+          "id": "INV-HARBOR-202411-1",
+          "amount": 20250,
+          "invoiceDate": "2024-11-05",
+          "dueDate": "2024-12-05",
+          "paidDate": "2024-11-09"
+        },
+        {
+          "id": "INV-HARBOR-202411-2",
+          "amount": 21750,
+          "invoiceDate": "2024-11-18",
+          "dueDate": "2024-12-18",
+          "paidDate": "2024-11-27"
+        },
+        {
+          "id": "INV-HARBOR-202412-1",
+          "amount": 20500,
+          "invoiceDate": "2024-12-05",
+          "dueDate": "2025-01-04",
+          "paidDate": "2024-12-09"
+        },
+        {
+          "id": "INV-HARBOR-202412-2",
+          "amount": 22000,
+          "invoiceDate": "2024-12-18",
+          "dueDate": "2025-01-17",
+          "paidDate": "2024-12-26"
+        },
+        {
+          "id": "INV-HARBOR-202501-1",
+          "amount": 20750,
+          "invoiceDate": "2025-01-05",
+          "dueDate": "2025-02-04",
+          "paidDate": "2025-01-09"
+        },
+        {
+          "id": "INV-HARBOR-202501-2",
+          "amount": 22250,
+          "invoiceDate": "2025-01-18",
+          "dueDate": "2025-02-17",
+          "paidDate": "2025-01-26"
+        },
+        {
+          "id": "INV-HARBOR-202502-1",
+          "amount": 21000,
+          "invoiceDate": "2025-02-05",
+          "dueDate": "2025-03-07",
+          "paidDate": "2025-02-09"
+        },
+        {
+          "id": "INV-HARBOR-202502-2",
+          "amount": 22500,
+          "invoiceDate": "2025-02-18",
+          "dueDate": "2025-03-20",
+          "paidDate": "2025-02-25"
+        },
+        {
+          "id": "INV-HARBOR-202503-1",
+          "amount": 21250,
+          "invoiceDate": "2025-03-05",
+          "dueDate": "2025-04-04",
+          "paidDate": "2025-03-09"
+        },
+        {
+          "id": "INV-HARBOR-202503-2",
+          "amount": 22750,
+          "invoiceDate": "2025-03-18",
+          "dueDate": "2025-04-17",
+          "paidDate": "2025-03-25"
+        },
+        {
+          "id": "INV-HARBOR-202504-1",
+          "amount": 21500,
+          "invoiceDate": "2025-04-05",
+          "dueDate": "2025-05-05",
+          "paidDate": "2025-04-09"
+        },
+        {
+          "id": "INV-HARBOR-202504-2",
+          "amount": 23000,
+          "invoiceDate": "2025-04-18",
+          "dueDate": "2025-05-18",
+          "paidDate": "2025-04-24"
+        },
+        {
+          "id": "INV-HARBOR-202505-1",
+          "amount": 21750,
+          "invoiceDate": "2025-05-05",
+          "dueDate": "2025-06-04",
+          "paidDate": "2025-05-09"
+        },
+        {
+          "id": "INV-HARBOR-202505-2",
+          "amount": 23250,
+          "invoiceDate": "2025-05-18",
+          "dueDate": "2025-06-17",
+          "paidDate": "2025-05-24"
+        },
+        {
+          "id": "INV-HARBOR-202506-1",
+          "amount": 22000,
+          "invoiceDate": "2025-06-05",
+          "dueDate": "2025-07-05",
+          "paidDate": "2025-06-09"
+        },
+        {
+          "id": "INV-HARBOR-202506-2",
+          "amount": 23500,
+          "invoiceDate": "2025-06-18",
+          "dueDate": "2025-07-18",
+          "paidDate": "2025-06-23"
+        },
+        {
+          "id": "INV-HARBOR-202507-1",
+          "amount": 22250,
+          "invoiceDate": "2025-07-05",
+          "dueDate": "2025-08-04",
+          "paidDate": "2025-07-09"
+        },
+        {
+          "id": "INV-HARBOR-202507-2",
+          "amount": 23750,
+          "invoiceDate": "2025-07-18",
+          "dueDate": "2025-08-17",
+          "paidDate": "2025-07-23"
+        },
+        {
+          "id": "INV-HARBOR-202508-1",
+          "amount": 22500,
+          "invoiceDate": "2025-08-05",
+          "dueDate": "2025-09-04",
+          "paidDate": "2025-08-09"
+        },
+        {
+          "id": "INV-HARBOR-202508-2",
+          "amount": 24000,
+          "invoiceDate": "2025-08-18",
+          "dueDate": "2025-09-17",
+          "paidDate": "2025-08-22"
+        },
+        {
+          "id": "INV-HARBOR-202509-1",
+          "amount": 22750,
+          "invoiceDate": "2025-09-05",
+          "dueDate": "2025-10-05",
+          "paidDate": "2025-09-09"
+        },
+        {
+          "id": "INV-HARBOR-202509-2",
+          "amount": 24250,
+          "invoiceDate": "2025-09-18",
+          "dueDate": "2025-10-18",
+          "paidDate": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "id": "pacific-freight",
+      "name": "Pacific Freight LLC",
+      "termsLabel": "2/15 net 45",
+      "discountPct": 2,
+      "discountWindowDays": 15,
+      "netDays": 45,
+      "invoices": [
+        {
+          "id": "INV-PACIFIC-202404-1",
+          "amount": 12000,
+          "invoiceDate": "2024-04-05",
+          "dueDate": "2024-05-20",
+          "paidDate": "2024-04-25"
+        },
+        {
+          "id": "INV-PACIFIC-202404-2",
+          "amount": 13500,
+          "invoiceDate": "2024-04-18",
+          "dueDate": "2024-06-02",
+          "paidDate": "2024-05-13"
+        },
+        {
+          "id": "INV-PACIFIC-202405-1",
+          "amount": 12180,
+          "invoiceDate": "2024-05-05",
+          "dueDate": "2024-06-19",
+          "paidDate": "2024-05-25"
+        },
+        {
+          "id": "INV-PACIFIC-202405-2",
+          "amount": 13680,
+          "invoiceDate": "2024-05-18",
+          "dueDate": "2024-07-02",
+          "paidDate": "2024-06-12"
+        },
+        {
+          "id": "INV-PACIFIC-202406-1",
+          "amount": 12360,
+          "invoiceDate": "2024-06-05",
+          "dueDate": "2024-07-20",
+          "paidDate": "2024-06-24"
+        },
+        {
+          "id": "INV-PACIFIC-202406-2",
+          "amount": 13860,
+          "invoiceDate": "2024-06-18",
+          "dueDate": "2024-08-02",
+          "paidDate": "2024-07-12"
+        },
+        {
+          "id": "INV-PACIFIC-202407-1",
+          "amount": 12540,
+          "invoiceDate": "2024-07-05",
+          "dueDate": "2024-08-19",
+          "paidDate": "2024-07-24"
+        },
+        {
+          "id": "INV-PACIFIC-202407-2",
+          "amount": 14040,
+          "invoiceDate": "2024-07-18",
+          "dueDate": "2024-09-01",
+          "paidDate": "2024-08-11"
+        },
+        {
+          "id": "INV-PACIFIC-202408-1",
+          "amount": 12720,
+          "invoiceDate": "2024-08-05",
+          "dueDate": "2024-09-19",
+          "paidDate": "2024-08-23"
+        },
+        {
+          "id": "INV-PACIFIC-202408-2",
+          "amount": 14220,
+          "invoiceDate": "2024-08-18",
+          "dueDate": "2024-10-02",
+          "paidDate": "2024-09-10"
+        },
+        {
+          "id": "INV-PACIFIC-202409-1",
+          "amount": 12900,
+          "invoiceDate": "2024-09-05",
+          "dueDate": "2024-10-20",
+          "paidDate": "2024-09-23"
+        },
+        {
+          "id": "INV-PACIFIC-202409-2",
+          "amount": 14400,
+          "invoiceDate": "2024-09-18",
+          "dueDate": "2024-11-02",
+          "paidDate": "2024-10-11"
+        },
+        {
+          "id": "INV-PACIFIC-202410-1",
+          "amount": 13080,
+          "invoiceDate": "2024-10-05",
+          "dueDate": "2024-11-19",
+          "paidDate": "2024-10-22"
+        },
+        {
+          "id": "INV-PACIFIC-202410-2",
+          "amount": 14580,
+          "invoiceDate": "2024-10-18",
+          "dueDate": "2024-12-02",
+          "paidDate": "2024-11-09"
+        },
+        {
+          "id": "INV-PACIFIC-202411-1",
+          "amount": 13260,
+          "invoiceDate": "2024-11-05",
+          "dueDate": "2024-12-20",
+          "paidDate": "2024-11-22"
+        },
+        {
+          "id": "INV-PACIFIC-202411-2",
+          "amount": 14760,
+          "invoiceDate": "2024-11-18",
+          "dueDate": "2025-01-02",
+          "paidDate": "2024-12-10"
+        },
+        {
+          "id": "INV-PACIFIC-202412-1",
+          "amount": 13440,
+          "invoiceDate": "2024-12-05",
+          "dueDate": "2025-01-19",
+          "paidDate": "2024-12-21"
+        },
+        {
+          "id": "INV-PACIFIC-202412-2",
+          "amount": 14940,
+          "invoiceDate": "2024-12-18",
+          "dueDate": "2025-02-01",
+          "paidDate": "2025-01-08"
+        },
+        {
+          "id": "INV-PACIFIC-202501-1",
+          "amount": 13620,
+          "invoiceDate": "2025-01-05",
+          "dueDate": "2025-02-19",
+          "paidDate": "2025-01-21"
+        },
+        {
+          "id": "INV-PACIFIC-202501-2",
+          "amount": 15120,
+          "invoiceDate": "2025-01-18",
+          "dueDate": "2025-03-04",
+          "paidDate": "2025-02-08"
+        },
+        {
+          "id": "INV-PACIFIC-202502-1",
+          "amount": 13800,
+          "invoiceDate": "2025-02-05",
+          "dueDate": "2025-03-22",
+          "paidDate": "2025-02-20"
+        },
+        {
+          "id": "INV-PACIFIC-202502-2",
+          "amount": 15300,
+          "invoiceDate": "2025-02-18",
+          "dueDate": "2025-04-04",
+          "paidDate": "2025-03-10"
+        },
+        {
+          "id": "INV-PACIFIC-202503-1",
+          "amount": 13980,
+          "invoiceDate": "2025-03-05",
+          "dueDate": "2025-04-19",
+          "paidDate": "2025-03-20"
+        },
+        {
+          "id": "INV-PACIFIC-202503-2",
+          "amount": 15480,
+          "invoiceDate": "2025-03-18",
+          "dueDate": "2025-05-02",
+          "paidDate": "2025-04-07"
+        },
+        {
+          "id": "INV-PACIFIC-202504-1",
+          "amount": 14160,
+          "invoiceDate": "2025-04-05",
+          "dueDate": "2025-05-20",
+          "paidDate": "2025-04-19"
+        },
+        {
+          "id": "INV-PACIFIC-202504-2",
+          "amount": 15660,
+          "invoiceDate": "2025-04-18",
+          "dueDate": "2025-06-02",
+          "paidDate": "2025-05-07"
+        },
+        {
+          "id": "INV-PACIFIC-202505-1",
+          "amount": 14340,
+          "invoiceDate": "2025-05-05",
+          "dueDate": "2025-06-19",
+          "paidDate": "2025-05-19"
+        },
+        {
+          "id": "INV-PACIFIC-202505-2",
+          "amount": 15840,
+          "invoiceDate": "2025-05-18",
+          "dueDate": "2025-07-02",
+          "paidDate": "2025-06-06"
+        },
+        {
+          "id": "INV-PACIFIC-202506-1",
+          "amount": 14520,
+          "invoiceDate": "2025-06-05",
+          "dueDate": "2025-07-20",
+          "paidDate": "2025-06-18"
+        },
+        {
+          "id": "INV-PACIFIC-202506-2",
+          "amount": 16020,
+          "invoiceDate": "2025-06-18",
+          "dueDate": "2025-08-02",
+          "paidDate": "2025-07-06"
+        },
+        {
+          "id": "INV-PACIFIC-202507-1",
+          "amount": 14700,
+          "invoiceDate": "2025-07-05",
+          "dueDate": "2025-08-19",
+          "paidDate": "2025-07-18"
+        },
+        {
+          "id": "INV-PACIFIC-202507-2",
+          "amount": 16200,
+          "invoiceDate": "2025-07-18",
+          "dueDate": "2025-09-01",
+          "paidDate": "2025-08-05"
+        },
+        {
+          "id": "INV-PACIFIC-202508-1",
+          "amount": 14880,
+          "invoiceDate": "2025-08-05",
+          "dueDate": "2025-09-19",
+          "paidDate": "2025-08-17"
+        },
+        {
+          "id": "INV-PACIFIC-202508-2",
+          "amount": 16380,
+          "invoiceDate": "2025-08-18",
+          "dueDate": "2025-10-02",
+          "paidDate": "2025-09-04"
+        },
+        {
+          "id": "INV-PACIFIC-202509-1",
+          "amount": 15060,
+          "invoiceDate": "2025-09-05",
+          "dueDate": "2025-10-20",
+          "paidDate": "2025-09-17"
+        },
+        {
+          "id": "INV-PACIFIC-202509-2",
+          "amount": 16560,
+          "invoiceDate": "2025-09-18",
+          "dueDate": "2025-11-02",
+          "paidDate": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "id": "metro-packaging",
+      "name": "Metro Packaging",
+      "termsLabel": "net 30",
+      "discountPct": 0,
+      "discountWindowDays": 0,
+      "netDays": 30,
+      "invoices": [
+        {
+          "id": "INV-METRO-202404-1",
+          "amount": 7800,
+          "invoiceDate": "2024-04-05",
+          "dueDate": "2024-05-05",
+          "paidDate": "2024-05-01"
+        },
+        {
+          "id": "INV-METRO-202405-1",
+          "amount": 7880,
+          "invoiceDate": "2024-05-05",
+          "dueDate": "2024-06-04",
+          "paidDate": "2024-05-31"
+        },
+        {
+          "id": "INV-METRO-202406-1",
+          "amount": 7960,
+          "invoiceDate": "2024-06-05",
+          "dueDate": "2024-07-05",
+          "paidDate": "2024-06-30"
+        },
+        {
+          "id": "INV-METRO-202407-1",
+          "amount": 8040,
+          "invoiceDate": "2024-07-05",
+          "dueDate": "2024-08-04",
+          "paidDate": "2024-07-30"
+        },
+        {
+          "id": "INV-METRO-202408-1",
+          "amount": 8120,
+          "invoiceDate": "2024-08-05",
+          "dueDate": "2024-09-04",
+          "paidDate": "2024-08-29"
+        },
+        {
+          "id": "INV-METRO-202409-1",
+          "amount": 8200,
+          "invoiceDate": "2024-09-05",
+          "dueDate": "2024-10-05",
+          "paidDate": "2024-09-29"
+        },
+        {
+          "id": "INV-METRO-202410-1",
+          "amount": 8280,
+          "invoiceDate": "2024-10-05",
+          "dueDate": "2024-11-04",
+          "paidDate": "2024-10-28"
+        },
+        {
+          "id": "INV-METRO-202411-1",
+          "amount": 8360,
+          "invoiceDate": "2024-11-05",
+          "dueDate": "2024-12-05",
+          "paidDate": "2024-11-28"
+        },
+        {
+          "id": "INV-METRO-202412-1",
+          "amount": 8440,
+          "invoiceDate": "2024-12-05",
+          "dueDate": "2025-01-04",
+          "paidDate": "2024-12-27"
+        },
+        {
+          "id": "INV-METRO-202501-1",
+          "amount": 8520,
+          "invoiceDate": "2025-01-05",
+          "dueDate": "2025-02-04",
+          "paidDate": "2025-01-27"
+        },
+        {
+          "id": "INV-METRO-202502-1",
+          "amount": 8600,
+          "invoiceDate": "2025-02-05",
+          "dueDate": "2025-03-07",
+          "paidDate": "2025-02-26"
+        },
+        {
+          "id": "INV-METRO-202503-1",
+          "amount": 8680,
+          "invoiceDate": "2025-03-05",
+          "dueDate": "2025-04-04",
+          "paidDate": "2025-03-26"
+        },
+        {
+          "id": "INV-METRO-202504-1",
+          "amount": 8760,
+          "invoiceDate": "2025-04-05",
+          "dueDate": "2025-05-05",
+          "paidDate": "2025-04-25"
+        },
+        {
+          "id": "INV-METRO-202505-1",
+          "amount": 8840,
+          "invoiceDate": "2025-05-05",
+          "dueDate": "2025-06-04",
+          "paidDate": "2025-05-25"
+        },
+        {
+          "id": "INV-METRO-202506-1",
+          "amount": 8920,
+          "invoiceDate": "2025-06-05",
+          "dueDate": "2025-07-05",
+          "paidDate": "2025-06-24"
+        },
+        {
+          "id": "INV-METRO-202507-1",
+          "amount": 9000,
+          "invoiceDate": "2025-07-05",
+          "dueDate": "2025-08-04",
+          "paidDate": "2025-07-24"
+        },
+        {
+          "id": "INV-METRO-202508-1",
+          "amount": 9080,
+          "invoiceDate": "2025-08-05",
+          "dueDate": "2025-09-04",
+          "paidDate": "2025-08-23"
+        },
+        {
+          "id": "INV-METRO-202509-1",
+          "amount": 9160,
+          "invoiceDate": "2025-09-05",
+          "dueDate": "2025-10-05",
+          "paidDate": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "id": "summit-chemicals",
+      "name": "Summit Chemicals",
+      "termsLabel": "1.5/10 net 60",
+      "discountPct": 1.5,
+      "discountWindowDays": 10,
+      "netDays": 60,
+      "invoices": [
+        {
+          "id": "INV-SUMMIT-202404-1",
+          "amount": 26500,
+          "invoiceDate": "2024-04-05",
+          "dueDate": "2024-06-04",
+          "paidDate": "2024-04-17"
+        },
+        {
+          "id": "INV-SUMMIT-202404-2",
+          "amount": 28000,
+          "invoiceDate": "2024-04-18",
+          "dueDate": "2024-06-17",
+          "paidDate": "2024-05-05"
+        },
+        {
+          "id": "INV-SUMMIT-202405-1",
+          "amount": 26900,
+          "invoiceDate": "2024-05-05",
+          "dueDate": "2024-07-04",
+          "paidDate": "2024-05-17"
+        },
+        {
+          "id": "INV-SUMMIT-202405-2",
+          "amount": 28400,
+          "invoiceDate": "2024-05-18",
+          "dueDate": "2024-07-17",
+          "paidDate": "2024-06-04"
+        },
+        {
+          "id": "INV-SUMMIT-202406-1",
+          "amount": 27300,
+          "invoiceDate": "2024-06-05",
+          "dueDate": "2024-08-04",
+          "paidDate": "2024-06-16"
+        },
+        {
+          "id": "INV-SUMMIT-202406-2",
+          "amount": 28800,
+          "invoiceDate": "2024-06-18",
+          "dueDate": "2024-08-17",
+          "paidDate": "2024-07-04"
+        },
+        {
+          "id": "INV-SUMMIT-202407-1",
+          "amount": 27700,
+          "invoiceDate": "2024-07-05",
+          "dueDate": "2024-09-03",
+          "paidDate": "2024-07-16"
+        },
+        {
+          "id": "INV-SUMMIT-202407-2",
+          "amount": 29200,
+          "invoiceDate": "2024-07-18",
+          "dueDate": "2024-09-16",
+          "paidDate": "2024-08-03"
+        },
+        {
+          "id": "INV-SUMMIT-202408-1",
+          "amount": 28100,
+          "invoiceDate": "2024-08-05",
+          "dueDate": "2024-10-04",
+          "paidDate": "2024-08-15"
+        },
+        {
+          "id": "INV-SUMMIT-202408-2",
+          "amount": 29600,
+          "invoiceDate": "2024-08-18",
+          "dueDate": "2024-10-17",
+          "paidDate": "2024-09-02"
+        },
+        {
+          "id": "INV-SUMMIT-202409-1",
+          "amount": 28500,
+          "invoiceDate": "2024-09-05",
+          "dueDate": "2024-11-04",
+          "paidDate": "2024-09-15"
+        },
+        {
+          "id": "INV-SUMMIT-202409-2",
+          "amount": 30000,
+          "invoiceDate": "2024-09-18",
+          "dueDate": "2024-11-17",
+          "paidDate": "2024-10-03"
+        },
+        {
+          "id": "INV-SUMMIT-202410-1",
+          "amount": 28900,
+          "invoiceDate": "2024-10-05",
+          "dueDate": "2024-12-04",
+          "paidDate": "2024-10-14"
+        },
+        {
+          "id": "INV-SUMMIT-202410-2",
+          "amount": 30400,
+          "invoiceDate": "2024-10-18",
+          "dueDate": "2024-12-17",
+          "paidDate": "2024-11-01"
+        },
+        {
+          "id": "INV-SUMMIT-202411-1",
+          "amount": 29300,
+          "invoiceDate": "2024-11-05",
+          "dueDate": "2025-01-04",
+          "paidDate": "2024-11-14"
+        },
+        {
+          "id": "INV-SUMMIT-202411-2",
+          "amount": 30800,
+          "invoiceDate": "2024-11-18",
+          "dueDate": "2025-01-17",
+          "paidDate": "2024-12-02"
+        },
+        {
+          "id": "INV-SUMMIT-202412-1",
+          "amount": 29700,
+          "invoiceDate": "2024-12-05",
+          "dueDate": "2025-02-03",
+          "paidDate": "2024-12-13"
+        },
+        {
+          "id": "INV-SUMMIT-202412-2",
+          "amount": 31200,
+          "invoiceDate": "2024-12-18",
+          "dueDate": "2025-02-16",
+          "paidDate": "2024-12-31"
+        },
+        {
+          "id": "INV-SUMMIT-202501-1",
+          "amount": 30100,
+          "invoiceDate": "2025-01-05",
+          "dueDate": "2025-03-06",
+          "paidDate": "2025-01-13"
+        },
+        {
+          "id": "INV-SUMMIT-202501-2",
+          "amount": 31600,
+          "invoiceDate": "2025-01-18",
+          "dueDate": "2025-03-19",
+          "paidDate": "2025-01-31"
+        },
+        {
+          "id": "INV-SUMMIT-202502-1",
+          "amount": 30500,
+          "invoiceDate": "2025-02-05",
+          "dueDate": "2025-04-06",
+          "paidDate": "2025-02-12"
+        },
+        {
+          "id": "INV-SUMMIT-202502-2",
+          "amount": 32000,
+          "invoiceDate": "2025-02-18",
+          "dueDate": "2025-04-19",
+          "paidDate": "2025-03-02"
+        },
+        {
+          "id": "INV-SUMMIT-202503-1",
+          "amount": 30900,
+          "invoiceDate": "2025-03-05",
+          "dueDate": "2025-05-04",
+          "paidDate": "2025-03-12"
+        },
+        {
+          "id": "INV-SUMMIT-202503-2",
+          "amount": 32400,
+          "invoiceDate": "2025-03-18",
+          "dueDate": "2025-05-17",
+          "paidDate": "2025-03-30"
+        },
+        {
+          "id": "INV-SUMMIT-202504-1",
+          "amount": 31300,
+          "invoiceDate": "2025-04-05",
+          "dueDate": "2025-06-04",
+          "paidDate": "2025-04-11"
+        },
+        {
+          "id": "INV-SUMMIT-202504-2",
+          "amount": 32800,
+          "invoiceDate": "2025-04-18",
+          "dueDate": "2025-06-17",
+          "paidDate": "2025-04-29"
+        },
+        {
+          "id": "INV-SUMMIT-202505-1",
+          "amount": 31700,
+          "invoiceDate": "2025-05-05",
+          "dueDate": "2025-07-04",
+          "paidDate": "2025-05-11"
+        },
+        {
+          "id": "INV-SUMMIT-202505-2",
+          "amount": 33200,
+          "invoiceDate": "2025-05-18",
+          "dueDate": "2025-07-17",
+          "paidDate": "2025-05-29"
+        },
+        {
+          "id": "INV-SUMMIT-202506-1",
+          "amount": 32100,
+          "invoiceDate": "2025-06-05",
+          "dueDate": "2025-08-04",
+          "paidDate": "2025-06-10"
+        },
+        {
+          "id": "INV-SUMMIT-202506-2",
+          "amount": 33600,
+          "invoiceDate": "2025-06-18",
+          "dueDate": "2025-08-17",
+          "paidDate": "2025-06-28"
+        },
+        {
+          "id": "INV-SUMMIT-202507-1",
+          "amount": 32500,
+          "invoiceDate": "2025-07-05",
+          "dueDate": "2025-09-03",
+          "paidDate": "2025-07-10"
+        },
+        {
+          "id": "INV-SUMMIT-202507-2",
+          "amount": 34000,
+          "invoiceDate": "2025-07-18",
+          "dueDate": "2025-09-16",
+          "paidDate": "2025-07-28"
+        },
+        {
+          "id": "INV-SUMMIT-202508-1",
+          "amount": 32900,
+          "invoiceDate": "2025-08-05",
+          "dueDate": "2025-10-04",
+          "paidDate": "2025-08-09"
+        },
+        {
+          "id": "INV-SUMMIT-202508-2",
+          "amount": 34400,
+          "invoiceDate": "2025-08-18",
+          "dueDate": "2025-10-17",
+          "paidDate": "2025-08-27"
+        },
+        {
+          "id": "INV-SUMMIT-202509-1",
+          "amount": 33300,
+          "invoiceDate": "2025-09-05",
+          "dueDate": "2025-11-04",
+          "paidDate": "2025-09-09"
+        },
+        {
+          "id": "INV-SUMMIT-202509-2",
+          "amount": 34800,
+          "invoiceDate": "2025-09-18",
+          "dueDate": "2025-11-17",
+          "paidDate": "2025-09-27"
+        }
+      ]
+    }
+  ]
+}
